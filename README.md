@@ -1,5 +1,5 @@
 GameofLife_Python
 =================
-<iframe width="480" height="360" src="//www.youtube.com/embed/LSjyDLrHJ8M" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/LSjyDLrHJ8M)
 
 Conways Game of Life in Python
